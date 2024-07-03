@@ -9,11 +9,6 @@
 
 - ⚡ Fun fact **I like to play rust in my free time or solve regular problems on codewars**
 
-<h3 align="left">My social</h3>
-<p> 
-<a href="https://ru.stackoverflow.com/users/561723/man4soul"><img src="https://ru.stackoverflow.com/users/flair/561723.png" width="208" height="58" alt="Профиль участника Man4soul на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов" title="Профиль участника Man4soul на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов"></a>
-</p>
-
 <a href="https://www.codewars.com/users/Man4/badges/large" target="blank"><img align="center" src="https://www.codewars.com/users/Man4/badges/large" alt="codewars"></a>
 
 <h3 align="left">Languages and Tools:</h3>
