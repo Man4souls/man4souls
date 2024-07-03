@@ -10,9 +10,6 @@
 - ⚡ Fun fact **I like to play rust in my free time or solve regular problems on codewars**
 
 <h3 align="left">My social</h3>
-<p align="left">
-<a href="https://www.leetcode.com/man4souls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="man4souls" height="30" width="40" /></a>
-</p>
 <p> 
 <a href="https://ru.stackoverflow.com/users/561723/man4soul"><img src="https://ru.stackoverflow.com/users/flair/561723.png" width="208" height="58" alt="Профиль участника Man4soul на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов" title="Профиль участника Man4soul на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов"></a>
 </p>
