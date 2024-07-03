@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I like to play rust in my free time or solve regular problems on codewars**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My social</h3>
 <p align="left">
 <a href="https://www.leetcode.com/man4souls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="man4souls" height="30" width="40" /></a>
 </p>
