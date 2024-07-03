@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/22285086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22285086" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/man4souls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="man4souls" height="30" width="40" /></a>
 </p>
 
+<a href="https://ru.stackoverflow.com/users/561723/man4soul"><img src="https://ru.stackoverflow.com/users/flair/561723.png" width="208" height="58" alt="Профиль участника Man4soul на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов" title="Профиль участника Man4soul на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов"></a>
 <a href="https://www.codewars.com/users/Man4/badges/large" target="blank"><img align="center" src="https://www.codewars.com/users/Man4/badges/large" alt="codewars"></a>
 
 <h3 align="left">Languages and Tools:</h3>
