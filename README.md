@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">I'm student in ITMO University.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=man4souls" alt="man4souls" /></a> </p>
-
 - 🌱 I’m currently learning **C++/C# languages**
 
 - 👨‍💻 All of my projects available in GitHub
